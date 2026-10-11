@@ -1,0 +1,11 @@
+{
+  "org": "encode",
+  "repo": "dashboard",
+  "versions": [
+    {
+      "commit": "a184d749a3a806f8d65574b5712ddce24169c677",
+      "tag": "",
+      "parsed_at": "2026-10-11T08:29:53.406132+00:00"
+    }
+  ]
+}
